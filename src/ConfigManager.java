@@ -1,5 +1,6 @@
 public class ConfigManager {
 
+
     private static ConfigManager manager;
     private String configValue;
 
@@ -23,3 +24,5 @@ public class ConfigManager {
         this.configValue = configValue;
     }
 }
+
+
